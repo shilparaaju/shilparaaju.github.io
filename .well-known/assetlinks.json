@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.example.shiraju.myfirstinstantapp",
+    "package_name": "com2.example2.shiraju.mysecondinstantapp",
     "sha256_cert_fingerprints":
     ["87:07:14:10:7B:92:32:FC:23:A5:EF:47:CB:E1:37:45:58:9A:CD:5B:47:CD:F5:15:DA:2E:2A:27:77:6B:A5:8A"]
   }
